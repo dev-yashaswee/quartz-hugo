@@ -1,0 +1,703 @@
+{
+  "index": {
+    "links": {
+      "G/quartz-hugo/content/": [
+        {
+          "source": "G/quartz-hugo/content/",
+          "target": "/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
+          "text": "CJK + Latex Support"
+        },
+        {
+          "source": "G/quartz-hugo/content/",
+          "target": "/notes/Atlas/Dashboard",
+          "text": "Setup your own digital garden using Quartz"
+        },
+        {
+          "source": "G/quartz-hugo/content/",
+          "target": "/notes/showcase",
+          "text": "community digital gardens"
+        },
+        {
+          "source": "G/quartz-hugo/content/",
+          "target": "/notes/philosophy",
+          "text": "why I made Quartz"
+        },
+        {
+          "source": "G/quartz-hugo/content/",
+          "target": "/notes",
+          "text": "All Notes"
+        },
+        {
+          "source": "G/quartz-hugo/content/",
+          "target": "/tags/setup",
+          "text": "Setup-related Notes"
+        },
+        {
+          "source": "G/quartz-hugo/content/",
+          "target": "/notes/troubleshooting",
+          "text": "Troubleshooting and FAQ"
+        }
+      ],
+      "G/quartz-hugo/content/notes/Atlas/Dashboard": [
+        {
+          "source": "G/quartz-hugo/content/notes/Atlas/Dashboard",
+          "target": "/Game-Development",
+          "text": "Game Development"
+        }
+      ],
+      "G/quartz-hugo/content/notes/Cards/Fleeting-Cards/Player-Autonomy": [
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Fleeting-Cards/Player-Autonomy",
+          "target": "/Self-Determination-Theory",
+          "text": "Self Determination Theory"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Fleeting-Cards/Player-Autonomy",
+          "target": "/Witcher",
+          "text": "Witcher"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Fleeting-Cards/Player-Autonomy",
+          "target": "/Player-MOC",
+          "text": "Player MOC"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Fleeting-Cards/Player-Autonomy",
+          "target": "/Volition",
+          "text": "Volitionally"
+        }
+      ],
+      "G/quartz-hugo/content/notes/Cards/Fleeting-Cards/Player-Motivation": [
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Fleeting-Cards/Player-Motivation",
+          "target": "/Player-MOC",
+          "text": "Player MOC"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Fleeting-Cards/Player-Motivation",
+          "target": "/Taste-Maps",
+          "text": "Taste Maps"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Fleeting-Cards/Player-Motivation",
+          "target": "/Self-Determination-Theory",
+          "text": "Self Determination Theory"
+        }
+      ],
+      "G/quartz-hugo/content/notes/Cards/Fleeting-Cards/Player-Narrative": [
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Fleeting-Cards/Player-Narrative",
+          "target": "/Volition",
+          "text": "Volition"
+        }
+      ],
+      "G/quartz-hugo/content/notes/Cards/Uncategorized/Freedom-Fallacy": [
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Uncategorized/Freedom-Fallacy",
+          "target": "/Volition",
+          "text": "Volition"
+        }
+      ],
+      "G/quartz-hugo/content/notes/Cards/Uncategorized/The-Motivational-Pull-of-Video-Games": [
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Uncategorized/The-Motivational-Pull-of-Video-Games",
+          "target": "/Self-Determination-Theory",
+          "text": "Self Determination Theory"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Uncategorized/The-Motivational-Pull-of-Video-Games",
+          "target": "/Player-Motivation",
+          "text": "Player Motivation"
+        }
+      ],
+      "G/quartz-hugo/content/notes/Cards/Uncategorized/Volition": [
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Uncategorized/Volition",
+          "target": "/Player-Autonomy",
+          "text": "Player Autonomy"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Uncategorized/Volition",
+          "target": "/Grand-Theft-Auto",
+          "text": "Grand Theft Auto"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Uncategorized/Volition",
+          "target": "/Skyrim",
+          "text": "Skyrim"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Uncategorized/Volition",
+          "target": "/Mass-Effect-3",
+          "text": "Mass Effect 3"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Uncategorized/Volition",
+          "target": "/Witcher",
+          "text": "Witcher"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Uncategorized/Volition",
+          "target": "/Shadow-of-Mordor",
+          "text": "Shadow of Mordor"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Uncategorized/Volition",
+          "target": "/Nemesis-System",
+          "text": "Nemesis System"
+        }
+      ],
+      "G/quartz-hugo/content/notes/Extras/Frameworks/Self-Determination-Theory": [
+        {
+          "source": "G/quartz-hugo/content/notes/Extras/Frameworks/Self-Determination-Theory",
+          "target": "/Player-Motivation",
+          "text": "Player Motivation"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Extras/Frameworks/Self-Determination-Theory",
+          "target": "/Player-Autonomy",
+          "text": "Autonomy"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Extras/Frameworks/Self-Determination-Theory",
+          "target": "/The-Motivational-Pull-of-Video-Games",
+          "text": "The Motivational Pull of Video Games"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Extras/Frameworks/Self-Determination-Theory",
+          "target": "/https//youtu.be/Lg2GndSat1Et2603",
+          "text": "^1"
+        }
+      ],
+      "G/quartz-hugo/content/notes/Extras/Games/Minecraft": [
+        {
+          "source": "G/quartz-hugo/content/notes/Extras/Games/Minecraft",
+          "target": "/https//youtu.be/Lg2GndSat1Et1236",
+          "text": "^1"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Extras/Games/Minecraft",
+          "target": "/Self-Determination-Theory",
+          "text": "SDT"
+        }
+      ],
+      "G/quartz-hugo/content/notes/Extras/Games/The-Stanley-Parable": [
+        {
+          "source": "G/quartz-hugo/content/notes/Extras/Games/The-Stanley-Parable",
+          "target": "/https//youtu.be/Lg2GndSat1Et1750",
+          "text": "^1"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Extras/Games/The-Stanley-Parable",
+          "target": "/Self-Determination-Theory",
+          "text": "SDT"
+        }
+      ],
+      "G/quartz-hugo/content/notes/Extras/Games/Witcher": [
+        {
+          "source": "G/quartz-hugo/content/notes/Extras/Games/Witcher",
+          "target": "/Player-Autonomy",
+          "text": "Player Autonomy"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Extras/Games/Witcher",
+          "target": "/Player-Narrative",
+          "text": "Player Narrative"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Extras/Games/Witcher",
+          "target": "/Volition",
+          "text": "Volition"
+        }
+      ],
+      "G/quartz-hugo/content/notes/Spaces/Interests/Areas/Game-Development": [
+        {
+          "source": "G/quartz-hugo/content/notes/Spaces/Interests/Areas/Game-Development",
+          "target": "/Player-MOC",
+          "text": "Player"
+        }
+      ],
+      "G/quartz-hugo/content/notes/Spaces/Interests/Map-of-Contents/Player-MOC": [
+        {
+          "source": "G/quartz-hugo/content/notes/Spaces/Interests/Map-of-Contents/Player-MOC",
+          "target": "/Player-Autonomy",
+          "text": "Autonomy"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Spaces/Interests/Map-of-Contents/Player-MOC",
+          "target": "/Player-Narrative",
+          "text": "Narrative"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Spaces/Interests/Map-of-Contents/Player-MOC",
+          "target": "/Player-Motivation",
+          "text": "Motivation"
+        }
+      ]
+    },
+    "backlinks": {
+      "/Game-Development": [
+        {
+          "source": "G/quartz-hugo/content/notes/Atlas/Dashboard",
+          "target": "/Game-Development",
+          "text": "Game Development"
+        }
+      ],
+      "/Grand-Theft-Auto": [
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Uncategorized/Volition",
+          "target": "/Grand-Theft-Auto",
+          "text": "Grand Theft Auto"
+        }
+      ],
+      "/Mass-Effect-3": [
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Uncategorized/Volition",
+          "target": "/Mass-Effect-3",
+          "text": "Mass Effect 3"
+        }
+      ],
+      "/Nemesis-System": [
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Uncategorized/Volition",
+          "target": "/Nemesis-System",
+          "text": "Nemesis System"
+        }
+      ],
+      "/Player-Autonomy": [
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Uncategorized/Volition",
+          "target": "/Player-Autonomy",
+          "text": "Player Autonomy"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Extras/Frameworks/Self-Determination-Theory",
+          "target": "/Player-Autonomy",
+          "text": "Autonomy"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Extras/Games/Witcher",
+          "target": "/Player-Autonomy",
+          "text": "Player Autonomy"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Spaces/Interests/Map-of-Contents/Player-MOC",
+          "target": "/Player-Autonomy",
+          "text": "Autonomy"
+        }
+      ],
+      "/Player-MOC": [
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Fleeting-Cards/Player-Autonomy",
+          "target": "/Player-MOC",
+          "text": "Player MOC"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Fleeting-Cards/Player-Motivation",
+          "target": "/Player-MOC",
+          "text": "Player MOC"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Spaces/Interests/Areas/Game-Development",
+          "target": "/Player-MOC",
+          "text": "Player"
+        }
+      ],
+      "/Player-Motivation": [
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Uncategorized/The-Motivational-Pull-of-Video-Games",
+          "target": "/Player-Motivation",
+          "text": "Player Motivation"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Extras/Frameworks/Self-Determination-Theory",
+          "target": "/Player-Motivation",
+          "text": "Player Motivation"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Spaces/Interests/Map-of-Contents/Player-MOC",
+          "target": "/Player-Motivation",
+          "text": "Motivation"
+        }
+      ],
+      "/Player-Narrative": [
+        {
+          "source": "G/quartz-hugo/content/notes/Extras/Games/Witcher",
+          "target": "/Player-Narrative",
+          "text": "Player Narrative"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Spaces/Interests/Map-of-Contents/Player-MOC",
+          "target": "/Player-Narrative",
+          "text": "Narrative"
+        }
+      ],
+      "/Self-Determination-Theory": [
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Fleeting-Cards/Player-Autonomy",
+          "target": "/Self-Determination-Theory",
+          "text": "Self Determination Theory"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Fleeting-Cards/Player-Motivation",
+          "target": "/Self-Determination-Theory",
+          "text": "Self Determination Theory"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Uncategorized/The-Motivational-Pull-of-Video-Games",
+          "target": "/Self-Determination-Theory",
+          "text": "Self Determination Theory"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Extras/Games/Minecraft",
+          "target": "/Self-Determination-Theory",
+          "text": "SDT"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Extras/Games/The-Stanley-Parable",
+          "target": "/Self-Determination-Theory",
+          "text": "SDT"
+        }
+      ],
+      "/Shadow-of-Mordor": [
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Uncategorized/Volition",
+          "target": "/Shadow-of-Mordor",
+          "text": "Shadow of Mordor"
+        }
+      ],
+      "/Skyrim": [
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Uncategorized/Volition",
+          "target": "/Skyrim",
+          "text": "Skyrim"
+        }
+      ],
+      "/Taste-Maps": [
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Fleeting-Cards/Player-Motivation",
+          "target": "/Taste-Maps",
+          "text": "Taste Maps"
+        }
+      ],
+      "/The-Motivational-Pull-of-Video-Games": [
+        {
+          "source": "G/quartz-hugo/content/notes/Extras/Frameworks/Self-Determination-Theory",
+          "target": "/The-Motivational-Pull-of-Video-Games",
+          "text": "The Motivational Pull of Video Games"
+        }
+      ],
+      "/Volition": [
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Fleeting-Cards/Player-Autonomy",
+          "target": "/Volition",
+          "text": "Volitionally"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Fleeting-Cards/Player-Narrative",
+          "target": "/Volition",
+          "text": "Volition"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Uncategorized/Freedom-Fallacy",
+          "target": "/Volition",
+          "text": "Volition"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Extras/Games/Witcher",
+          "target": "/Volition",
+          "text": "Volition"
+        }
+      ],
+      "/Witcher": [
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Fleeting-Cards/Player-Autonomy",
+          "target": "/Witcher",
+          "text": "Witcher"
+        },
+        {
+          "source": "G/quartz-hugo/content/notes/Cards/Uncategorized/Volition",
+          "target": "/Witcher",
+          "text": "Witcher"
+        }
+      ],
+      "/https//youtu.be/Lg2GndSat1Et1236": [
+        {
+          "source": "G/quartz-hugo/content/notes/Extras/Games/Minecraft",
+          "target": "/https//youtu.be/Lg2GndSat1Et1236",
+          "text": "^1"
+        }
+      ],
+      "/https//youtu.be/Lg2GndSat1Et1750": [
+        {
+          "source": "G/quartz-hugo/content/notes/Extras/Games/The-Stanley-Parable",
+          "target": "/https//youtu.be/Lg2GndSat1Et1750",
+          "text": "^1"
+        }
+      ],
+      "/https//youtu.be/Lg2GndSat1Et2603": [
+        {
+          "source": "G/quartz-hugo/content/notes/Extras/Frameworks/Self-Determination-Theory",
+          "target": "/https//youtu.be/Lg2GndSat1Et2603",
+          "text": "^1"
+        }
+      ],
+      "/notes": [
+        {
+          "source": "G/quartz-hugo/content/",
+          "target": "/notes",
+          "text": "All Notes"
+        }
+      ],
+      "/notes/Atlas/Dashboard": [
+        {
+          "source": "G/quartz-hugo/content/",
+          "target": "/notes/Atlas/Dashboard",
+          "text": "Setup your own digital garden using Quartz"
+        }
+      ],
+      "/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95": [
+        {
+          "source": "G/quartz-hugo/content/",
+          "target": "/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
+          "text": "CJK + Latex Support"
+        }
+      ],
+      "/notes/philosophy": [
+        {
+          "source": "G/quartz-hugo/content/",
+          "target": "/notes/philosophy",
+          "text": "why I made Quartz"
+        }
+      ],
+      "/notes/showcase": [
+        {
+          "source": "G/quartz-hugo/content/",
+          "target": "/notes/showcase",
+          "text": "community digital gardens"
+        }
+      ],
+      "/notes/troubleshooting": [
+        {
+          "source": "G/quartz-hugo/content/",
+          "target": "/notes/troubleshooting",
+          "text": "Troubleshooting and FAQ"
+        }
+      ],
+      "/tags/setup": [
+        {
+          "source": "G/quartz-hugo/content/",
+          "target": "/tags/setup",
+          "text": "Setup-related Notes"
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "source": "G/quartz-hugo/content/",
+      "target": "/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
+      "text": "CJK + Latex Support"
+    },
+    {
+      "source": "G/quartz-hugo/content/",
+      "target": "/notes/Atlas/Dashboard",
+      "text": "Setup your own digital garden using Quartz"
+    },
+    {
+      "source": "G/quartz-hugo/content/",
+      "target": "/notes/showcase",
+      "text": "community digital gardens"
+    },
+    {
+      "source": "G/quartz-hugo/content/",
+      "target": "/notes/philosophy",
+      "text": "why I made Quartz"
+    },
+    {
+      "source": "G/quartz-hugo/content/",
+      "target": "/notes",
+      "text": "All Notes"
+    },
+    {
+      "source": "G/quartz-hugo/content/",
+      "target": "/tags/setup",
+      "text": "Setup-related Notes"
+    },
+    {
+      "source": "G/quartz-hugo/content/",
+      "target": "/notes/troubleshooting",
+      "text": "Troubleshooting and FAQ"
+    },
+    {
+      "source": "G/quartz-hugo/content/notes/Atlas/Dashboard",
+      "target": "/Game-Development",
+      "text": "Game Development"
+    },
+    {
+      "source": "G/quartz-hugo/content/notes/Cards/Fleeting-Cards/Player-Autonomy",
+      "target": "/Self-Determination-Theory",
+      "text": "Self Determination Theory"
+    },
+    {
+      "source": "G/quartz-hugo/content/notes/Cards/Fleeting-Cards/Player-Autonomy",
+      "target": "/Witcher",
+      "text": "Witcher"
+    },
+    {
+      "source": "G/quartz-hugo/content/notes/Cards/Fleeting-Cards/Player-Autonomy",
+      "target": "/Player-MOC",
+      "text": "Player MOC"
+    },
+    {
+      "source": "G/quartz-hugo/content/notes/Cards/Fleeting-Cards/Player-Autonomy",
+      "target": "/Volition",
+      "text": "Volitionally"
+    },
+    {
+      "source": "G/quartz-hugo/content/notes/Cards/Fleeting-Cards/Player-Motivation",
+      "target": "/Player-MOC",
+      "text": "Player MOC"
+    },
+    {
+      "source": "G/quartz-hugo/content/notes/Cards/Fleeting-Cards/Player-Motivation",
+      "target": "/Taste-Maps",
+      "text": "Taste Maps"
+    },
+    {
+      "source": "G/quartz-hugo/content/notes/Cards/Fleeting-Cards/Player-Motivation",
+      "target": "/Self-Determination-Theory",
+      "text": "Self Determination Theory"
+    },
+    {
+      "source": "G/quartz-hugo/content/notes/Cards/Fleeting-Cards/Player-Narrative",
+      "target": "/Volition",
+      "text": "Volition"
+    },
+    {
+      "source": "G/quartz-hugo/content/notes/Cards/Uncategorized/Freedom-Fallacy",
+      "target": "/Volition",
+      "text": "Volition"
+    },
+    {
+      "source": "G/quartz-hugo/content/notes/Cards/Uncategorized/The-Motivational-Pull-of-Video-Games",
+      "target": "/Self-Determination-Theory",
+      "text": "Self Determination Theory"
+    },
+    {
+      "source": "G/quartz-hugo/content/notes/Cards/Uncategorized/The-Motivational-Pull-of-Video-Games",
+      "target": "/Player-Motivation",
+      "text": "Player Motivation"
+    },
+    {
+      "source": "G/quartz-hugo/content/notes/Cards/Uncategorized/Volition",
+      "target": "/Player-Autonomy",
+      "text": "Player Autonomy"
+    },
+    {
+      "source": "G/quartz-hugo/content/notes/Cards/Uncategorized/Volition",
+      "target": "/Grand-Theft-Auto",
+      "text": "Grand Theft Auto"
+    },
+    {
+      "source": "G/quartz-hugo/content/notes/Cards/Uncategorized/Volition",
+      "target": "/Skyrim",
+      "text": "Skyrim"
+    },
+    {
+      "source": "G/quartz-hugo/content/notes/Cards/Uncategorized/Volition",
+      "target": "/Mass-Effect-3",
+      "text": "Mass Effect 3"
+    },
+    {
+      "source": "G/quartz-hugo/content/notes/Cards/Uncategorized/Volition",
+      "target": "/Witcher",
+      "text": "Witcher"
+    },
+    {
+      "source": "G/quartz-hugo/content/notes/Cards/Uncategorized/Volition",
+      "target": "/Shadow-of-Mordor",
+      "text": "Shadow of Mordor"
+    },
+    {
+      "source": "G/quartz-hugo/content/notes/Cards/Uncategorized/Volition",
+      "target": "/Nemesis-System",
+      "text": "Nemesis System"
+    },
+    {
+      "source": "G/quartz-hugo/content/notes/Extras/Frameworks/Self-Determination-Theory",
+      "target": "/Player-Motivation",
+      "text": "Player Motivation"
+    },
+    {
+      "source": "G/quartz-hugo/content/notes/Extras/Frameworks/Self-Determination-Theory",
+      "target": "/Player-Autonomy",
+      "text": "Autonomy"
+    },
+    {
+      "source": "G/quartz-hugo/content/notes/Extras/Frameworks/Self-Determination-Theory",
+      "target": "/The-Motivational-Pull-of-Video-Games",
+      "text": "The Motivational Pull of Video Games"
+    },
+    {
+      "source": "G/quartz-hugo/content/notes/Extras/Frameworks/Self-Determination-Theory",
+      "target": "/https//youtu.be/Lg2GndSat1Et2603",
+      "text": "^1"
+    },
+    {
+      "source": "G/quartz-hugo/content/notes/Extras/Games/Minecraft",
+      "target": "/https//youtu.be/Lg2GndSat1Et1236",
+      "text": "^1"
+    },
+    {
+      "source": "G/quartz-hugo/content/notes/Extras/Games/Minecraft",
+      "target": "/Self-Determination-Theory",
+      "text": "SDT"
+    },
+    {
+      "source": "G/quartz-hugo/content/notes/Extras/Games/The-Stanley-Parable",
+      "target": "/https//youtu.be/Lg2GndSat1Et1750",
+      "text": "^1"
+    },
+    {
+      "source": "G/quartz-hugo/content/notes/Extras/Games/The-Stanley-Parable",
+      "target": "/Self-Determination-Theory",
+      "text": "SDT"
+    },
+    {
+      "source": "G/quartz-hugo/content/notes/Extras/Games/Witcher",
+      "target": "/Player-Autonomy",
+      "text": "Player Autonomy"
+    },
+    {
+      "source": "G/quartz-hugo/content/notes/Extras/Games/Witcher",
+      "target": "/Player-Narrative",
+      "text": "Player Narrative"
+    },
+    {
+      "source": "G/quartz-hugo/content/notes/Extras/Games/Witcher",
+      "target": "/Volition",
+      "text": "Volition"
+    },
+    {
+      "source": "G/quartz-hugo/content/notes/Spaces/Interests/Areas/Game-Development",
+      "target": "/Player-MOC",
+      "text": "Player"
+    },
+    {
+      "source": "G/quartz-hugo/content/notes/Spaces/Interests/Map-of-Contents/Player-MOC",
+      "target": "/Player-Autonomy",
+      "text": "Autonomy"
+    },
+    {
+      "source": "G/quartz-hugo/content/notes/Spaces/Interests/Map-of-Contents/Player-MOC",
+      "target": "/Player-Narrative",
+      "text": "Narrative"
+    },
+    {
+      "source": "G/quartz-hugo/content/notes/Spaces/Interests/Map-of-Contents/Player-MOC",
+      "target": "/Player-Motivation",
+      "text": "Motivation"
+    }
+  ]
+}

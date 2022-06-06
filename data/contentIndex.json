@@ -1,0 +1,164 @@
+{
+  "G/quartz-hugo/content/": {
+    "title": "🪴 Quartz 3.2",
+    "content": "\nHost your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features\n\n1. Extremely fast full-text search by pressing `Ctrl` + `k`\n2. Customizable and hackable design based on Hugo\n3. Automatically generated backlinks, link previews, and local graph\n4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]]\n5. Support for both Markdown Links and Wikilinks\n\n## Get Started\n\n\u003e 📚 [Setup your own digital garden using Quartz](notes/Atlas/Dashboard.md)\n\nNot convinced yet? Look at some [community digital gardens](notes/showcase.md) built with Quartz, or read about [why I made Quartz](notes/philosophy.md) to begin with.\n\n## Content Lists\n\nIf you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:\n\n- [All Notes](/notes)\n- [Setup-related Notes](/tags/setup)\n\n## Troubleshooting\n\n- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)\n- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)\n- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)\n",
+    "lastmodified": "2022-06-06T05:37:58.4901172+05:30",
+    "tags": null
+  },
+  "G/quartz-hugo/content/notes/Atlas/Dashboard": {
+    "title": "Interests",
+    "content": "\n# Interests\n\n- `fas:Industry` Areas\n\t- [[Game Development]]\n- `fas:ProjectDiagram` Projects\n",
+    "lastmodified": "2022-06-06T02:56:22.0392622+05:30",
+    "tags": null
+  },
+  "G/quartz-hugo/content/notes/Atlas/Meta": {
+    "title": "Meta",
+    "content": "\n# Meta\n\n## 1. Goals\n",
+    "lastmodified": "2022-06-05T19:09:10.3695202+05:30",
+    "tags": null
+  },
+  "G/quartz-hugo/content/notes/Cards/Fleeting-Cards/Player-Autonomy": {
+    "title": "`rir:Game`Player Autonomy `rir:RemoteControl2`",
+    "content": "\u003e \u003cmark class=\"hltr-blue\"\u003eStatus\u003c/mark\u003e : #ideas\n\u003e \u003cmark class=\"hltr-cyan\"\u003eTags\u003c/mark\u003e : \n\u003e \u003cmark class=\"hltr-green\"\u003eLink\u003c/mark\u003e : [[Self Determination Theory]], [[Witcher]], [[Player MOC]]\n\n# `rir:Game`Player Autonomy `rir:RemoteControl2`\n\n\u003e[!slid] Slide\n\u003e![](https://i.imgur.com/jw0UqRJ.png)\n\n1. What motivates us at a deep level are the things that satisfy our basic psychological needs.\n\t1. Autonomy : When we Act, we do so __[[Volition|Volitionally]]__\n\t\t1. \u003e[!ques] Question\n\t\t\u003eWhat are you doing to build volition and not just provide freedom? ^58e09b\n\t\t2. \u003e[!ex] An Example\n\t\t\u003eYour parents could ground you in your bedroom and you can rearrange/decorate your room however you want, but if what you actually want to do in that moment is go out and play with your friends you do not have autonomy.\n\n\t\t3. Structure beats out Freedom in Satsifying Autonomy\n\t1. Relatedness\n\t2. Competence\n\n## 1. References\n\n+ [The Freedom Fallacy: Understanding \"Player Autonomy\" in Game Design](https://youtu.be/3vct13OhIio)\n",
+    "lastmodified": "2022-06-05T19:21:38.5898302+05:30",
+    "tags": null
+  },
+  "G/quartz-hugo/content/notes/Cards/Fleeting-Cards/Player-Motivation": {
+    "title": "Player Motivation",
+    "content": "\u003e \u003cmark class=\"hltr-blue\"\u003eStatus\u003c/mark\u003e : #ideas\n\u003e \u003cmark class=\"hltr-cyan\"\u003eTags\u003c/mark\u003e :\n\u003e \u003cmark class=\"hltr-green\"\u003eLink\u003c/mark\u003e :[[Player MOC]]\n\n# Player Motivation\n\n1. You don't keep playing for the reasons you started playing.\n2. We are guided by our individual tastes when choosing what to begin\n3. We are guided by universal satisfactions when choosing what to continue.\n\n## 1. Engines of Play\n\n### 1.A. `fas:MortarPestle` [[Taste Maps]]\n\n+ Helps your Communicate about what kinds of players taste your game will satisfy\n\n### 1.B. `rir:PinDistance` Player Journey Map\n\n+ Building a player journey map is a great way to communicate early about what you intend the core value of your game to be.\n\n\u003e[!slid] Slide for a Player Journey Map\n\u003e![](https://i.imgur.com/N1MJL1W.png)\n\n#### 1.B.A. Observations\n\n\u003e[!visill] Visual Illustration\n\u003e![](https://i.imgur.com/itDTuiH.png)\n\n1. The longer you play a game, the less you care about how well it matches your individual tastes.\n\n##### 1.B.A.A. [[Self Determination Theory]]\n\n\u003e[!slid] Application of Self Determination Theory\n\u003e![](https://i.imgur.com/K8Sio7a.png)\n\n### 1.C. Benefits `far:PlusSquare`\n\n\u003e[!slid] Slide to Illustrate the Benefits of above described models\n\u003e![](https://i.imgur.com/6TvIBSQ.png)\n\n## 2. References\n\n+ Speaker : Ubisoft's Jason VandenBerghe\n+ [Engines of Play: How Player Motivation Changes Over Time](https://youtu.be/Lg2GndSat1E)\n",
+    "lastmodified": "2022-06-05T15:25:24.7988377+05:30",
+    "tags": null
+  },
+  "G/quartz-hugo/content/notes/Cards/Fleeting-Cards/Player-Narrative": {
+    "title": "Player Narrative",
+    "content": "\u003e \u003cmark class=\"hltr-blue\"\u003eStatus\u003c/mark\u003e : #ideas\n\u003e \u003cmark class=\"hltr-cyan\"\u003eTags\u003c/mark\u003e :\n\n# Player Narrative\n\n1. Personal narratives are how players integrate and amplify their [[Volition]]. They ideally reflect the player's self, interests and values.\n2. \u003e[!ex] Example of a Good Player Narrative (Skyrim and Mass Effect)\n\u003e1. ![](https://i.imgur.com/J9tlXoW.png)\n\u003e2. Mass Effect also gives well-crafted paragraphs that build volition through a personal narrative\n\n## 1. References\n",
+    "lastmodified": "2022-06-05T03:24:11.0942805+05:30",
+    "tags": null
+  },
+  "G/quartz-hugo/content/notes/Cards/Fleeting-Cards/Stones-on-an-Infinite-Chessboard": {
+    "title": "",
+    "content": "",
+    "lastmodified": "2022-06-04T23:21:00.1450454+05:30",
+    "tags": null
+  },
+  "G/quartz-hugo/content/notes/Cards/Uncategorized/Freedom-Fallacy": {
+    "title": "Freedom Fallacy",
+    "content": "\u003e \u003cmark class=\"hltr-blue\"\u003eStatus\u003c/mark\u003e : #ideas\n\u003e \u003cmark class=\"hltr-cyan\"\u003eTags\u003c/mark\u003e :\n\n# Freedom Fallacy\n\n\u003e[!slid] Slide on Freedom Fallacy\n\u003e![](https://i.imgur.com/NUqAgJM.png)\n1. Freedom Falacy states that Autonomy is Freedom but in Psychologically it is [[Volition]]\n\n## 1. References\n\n[[](https://youtu.be/3vct13OhIio?t=494)](https://youtu.be/3vct13OhIio?t=508)\n",
+    "lastmodified": "2022-06-05T02:52:19.1276092+05:30",
+    "tags": null
+  },
+  "G/quartz-hugo/content/notes/Cards/Uncategorized/The-Motivational-Pull-of-Video-Games": {
+    "title": "The Motivational Pull of Video Games",
+    "content": "\u003e \u003cmark class=\"hltr-blue\"\u003eStatus\u003c/mark\u003e : #ideas\n\u003e \u003cmark class=\"hltr-cyan\"\u003eTags\u003c/mark\u003e :\n\u003e \u003cmark class=\"hltr-green\"\u003eLink\u003c/mark\u003e :[[Self Determination Theory]],[[Player Motivation]]\n\n\n# The Motivational Pull of Video Games\n\n## 1. P.E.N.S Approach\n\n+ P.E.N.S stands for Player Experience of Need Satisfaction.\n\u003e[!slid] Slide to Illustrate the Initial Understanding of the P.E.N.S Approach\n\u003e![](https://i.imgur.com/rGxG5Yn.png)\n\n### 1.A. Examples\n\n+ [[Minecraft#2 The Motivational Pull of Video Games 1 P E N S Approach P E N S Application of Self Determination Theory SDT|Minecraft]]\n+ [[The Stanley Parable#2 The Motivational Pull of Video Games 1 P E N S Approach P E N S Application of Self Determination Theory SDT|The Stanley Parable]]\n\n### 1.B. Activity\n\n\u003e[!slid] P.EN.S Approach to SDT and use this slide as a framework for your games.\n\u003e![](https://i.imgur.com/xDVQ9J6.png)\n\n## 2. References\n",
+    "lastmodified": "2022-06-05T15:24:56.7876845+05:30",
+    "tags": null
+  },
+  "G/quartz-hugo/content/notes/Cards/Uncategorized/Volition": {
+    "title": "Volition",
+    "content": "\u003e \u003cmark class=\"hltr-blue\"\u003eStatus\u003c/mark\u003e : #ideas\n\u003e \u003cmark class=\"hltr-cyan\"\u003eTags\u003c/mark\u003e :\n\u003e \u003cmark class=\"hltr-green\"\u003eLink\u003c/mark\u003e : [[Player Autonomy]]\n\n# Volition\n\n1. Volition isn't independence or freedom to do whatever you want, it is wanting to do the things that you are doing.\n\n## 1. Volition Building\n\n1. The key is __NOT__ to just offer more. It is to offer a density of things that matter\n2. Leading games aren't about freedom. They use ingredients of meaningful choice, growth, mastery and narrative to brew volition.\n\u003e[!slid] Slide\n\u003e![](https://i.imgur.com/LiVOXrG.png)\n\n### 1.A. Amusement Park Structure\n\n+ [[Grand Theft Auto]] is a prime example of this Structure\n+ \u003e[!ex] Example of Application of Amusement Park Structure\n\t\u003eGTA provides freedom, but what it lacks are rich opportunities for growth and for creating a player story, surely it dominates because it has a variety of satisfying rides.\n+ Amusement Park Structure are thin on Narrative Tools\n\n### 1.B. Dense RPG's\n\n+ \u003e[!ex] An Example\n\u003e[[Skyrim]]'s Rich RPG Systems deepen volition by empowering growth and providing richer Narrative threads\n\u003e\n\n### 1.C. Narrative Impact\n\n[[Mass Effect 3]]'s hook is that I can not only change the world, I can also change the Universe.\n\n### 1.D. Hybrids\n\n[[Witcher]] is a prime example of an hybrid. It mixes the concept of Deep Narrative Impact of Mass Effect and Dense RPG Systems of Skyrim.\n\n## 2. `rir:Settings` Volition Mechanics \n\n### 2.A. Procedural Volition\n+ Middle-earth: [[Shadow of Mordor]] had [[Nemesis System]] that best suits this kind of Procedural Volition.\n+ Some Variables to consider\n\t\u003e[!slid] Slide\n\t\u003e![](https://i.imgur.com/dCJ3XkH.png)\n\t+ Player Verbs in the Equations\n\t+ Focus on Meaningful Impact\n\t+ Latent Variables\n\n## 3. References\n\n[](https://youtu.be/3vct13OhIio?t=494)\n",
+    "lastmodified": "2022-06-05T11:21:15.8410976+05:30",
+    "tags": null
+  },
+  "G/quartz-hugo/content/notes/Extras/Frameworks/Self-Determination-Theory": {
+    "title": "Self Determination Theory",
+    "content": "\u003e \u003cmark class=\"hltr-blue\"\u003eStatus\u003c/mark\u003e : #ideas #draft\n\u003e \u003cmark class=\"hltr-cyan\"\u003eTags\u003c/mark\u003e :\n\u003e \u003cmark class=\"hltr-green\"\u003eLink\u003c/mark\u003e : [[Player Motivation]]\n\n# Self Determination Theory\n\n+ It consists of three Satisfactions without which you are not a human\n\n## 1. Theory\n\n### 1.A. Competence\n\n+ The universe want to seek to control outcomes and experience mastery\n\n### 1.B. [[Player Autonomy|Autonomy]]\n\n+ The universal urge to be causal agents of one's own life and act in harmony with one's integrated self\n\n### 1.C. Relatedness\n\n+ Relatedness is the knowledge of where I fit.\n+ The universe wants to interact, be connected to and experience caring for others.\n\n## 2. Approaches\n\n### 2.A. [[The Motivational Pull of Video Games]]\n\n\u003e[!slid] Slide Outlining the Meta of the Approach[^1]\n\u003e![](https://i.imgur.com/QHRIf8G.png)\n\n## 3. References\n\n+ [](https://www.youtube.com/watch?v=rrkrvAUbU9Y)\n\n[^1]: [](https://youtu.be/Lg2GndSat1E?t=2603)",
+    "lastmodified": "2022-06-05T12:58:12.5399565+05:30",
+    "tags": null
+  },
+  "G/quartz-hugo/content/notes/Extras/Frameworks/Taste-Maps": {
+    "title": "Taste Maps",
+    "content": "\u003e \u003cmark class=\"hltr-blue\"\u003eStatus\u003c/mark\u003e : #ideas\n\u003e \u003cmark class=\"hltr-cyan\"\u003eTags\u003c/mark\u003e :\n\u003e \u003cmark class=\"hltr-green\"\u003eLink\u003c/mark\u003e :\n\n# Taste Maps\n\n1. Designer thinks in Groups and not Individually\n2. Population and Investment metrics are Inversely Proportional.\n3. It's not about filling up all the boxes, it's about matching your boxes to the budget.\n4. Taste Maps are good for Communications.\n\n## 1. Understanding Taste Maps\n\n1. Fill the $60\\%$ Center area with asking a simple question that, does it have this feature irrespective of its grading or quality or appeal of that feature.\n2. Fill the $15\\%$ Middle area, asking that this is the particular feature good enough for players to engage and play.\n3. Fill the $5\\%$ Outward area of the Taste Map asking that this Particular feature in your game is the best in the world.\n\n\u003e[!ex] An Example of Inverse Proportions of Population playing the game and Investment poured.\n\u003e![](https://i.imgur.com/88grWFW.png)\n\n\u003e[!slid] Slide Representing all Four Taste Maps (Marking Population and Investment Layers)\n\u003e![](https://i.imgur.com/bT7LvY6.png)\n\n## 2. Drawing Taste Maps\n\n### 2.A. Minecraft\n\n+ [[Minecraft#^24f112|Taste Map for Minecraft]]\n\n### 2.B. The Stanley Parable\n\n+ [[The Stanley Parable#^6a8d99|Taste Map for Stanley Parable]]\n\n## 3. References\n",
+    "lastmodified": "2022-06-05T13:26:41.7306681+05:30",
+    "tags": null
+  },
+  "G/quartz-hugo/content/notes/Extras/Games/Grand-Theft-Auto": {
+    "title": "",
+    "content": "",
+    "lastmodified": "2022-06-05T03:05:55.8708804+05:30",
+    "tags": null
+  },
+  "G/quartz-hugo/content/notes/Extras/Games/Mass-Effect-3": {
+    "title": "Mass Effect 3",
+    "content": "\n# Mass Effect 3\n\n## 1. Mass Effect 3's Ending Disrespects Its Most Invested Players.\n\n\u003e[!slid] Slide\n\u003e![](https://i.imgur.com/BiSrpLr.png)\n\u003eAnd without the volition, there isn't sufficient structure to support narrative. In fact, players felt the opposition of volition, they felt controlled.[^1]\n\n[^1]: https://youtu.be/3vct13OhIio\n",
+    "lastmodified": "2022-06-05T10:48:41.3679049+05:30",
+    "tags": null
+  },
+  "G/quartz-hugo/content/notes/Extras/Games/Minecraft": {
+    "title": "",
+    "content": "\u003e \u003cmark class=\"hltr-blue\"\u003eStatus\u003c/mark\u003e : #ideas\n\u003e \u003cmark class=\"hltr-cyan\"\u003eTags\u003c/mark\u003e :\n\u003e \u003cmark class=\"hltr-green\"\u003eLink\u003c/mark\u003e :\n\n# Minecraft\n\n## 1. Taste Map\n\u003e[!slid] Slide for the Taste Map of Minecraft[^1]\n\u003e![](https://i.imgur.com/fBLqVZd.png)\n\n^24f112\n\n\n## 2. [[The Motivational Pull of Video Games#1 P E N S Approach|P.E.N.S]] Application of [[Self Determination Theory|SDT]]\n\n### 2.A. Takeaways\n\u003e[!slid] Takeaways on P.E.N.S Application of S.D.T\n\u003e![](https://i.imgur.com/Fz9mXps.png)\n\n\n1.\n\n## 3. References\n\n[^1]: [](https://youtu.be/Lg2GndSat1E?t=1236)",
+    "lastmodified": "2022-06-05T13:11:14.6381871+05:30",
+    "tags": null
+  },
+  "G/quartz-hugo/content/notes/Extras/Games/Shadow-of-Mordor": {
+    "title": "Shadow of Mordor",
+    "content": "\n# Shadow of Mordor\n",
+    "lastmodified": "2022-06-05T11:06:58.8812355+05:30",
+    "tags": null
+  },
+  "G/quartz-hugo/content/notes/Extras/Games/Skyrim": {
+    "title": "",
+    "content": "",
+    "lastmodified": "2022-06-05T03:18:21.6135765+05:30",
+    "tags": null
+  },
+  "G/quartz-hugo/content/notes/Extras/Games/The-Stanley-Parable": {
+    "title": "The Stanley Parable",
+    "content": "\u003e \u003cmark class=\"hltr-blue\"\u003eStatus\u003c/mark\u003e : #ideas\n\u003e \u003cmark class=\"hltr-cyan\"\u003eTags\u003c/mark\u003e :\n\u003e \u003cmark class=\"hltr-green\"\u003eLink\u003c/mark\u003e :\n\n# The Stanley Parable\n\n## 1. Taste Map\n\n\u003e[!slid] Slide\n\u003e![](https://i.imgur.com/07BmnCX.png)[^1]\n\n^6a8d99\n\n## 2. [[The Motivational Pull of Video Games#1 P E N S Approach|P.E.N.S]] Application of [[Self Determination Theory|SDT]]\n\n### 2.A. Takeaways\n\n\u003e[!slid] Takeaways on P.E.N.S Application of S.D.T\n\u003e![](https://i.imgur.com/S7u4ij4.png)\n\n## 3. References\n\n[^1]: [](https://youtu.be/Lg2GndSat1E?t=1750)\n",
+    "lastmodified": "2022-06-05T13:09:24.0330457+05:30",
+    "tags": null
+  },
+  "G/quartz-hugo/content/notes/Extras/Games/Witcher": {
+    "title": "Witcher",
+    "content": "\u003e \u003cmark class=\"hltr-blue\"\u003eStatus\u003c/mark\u003e : #ideas\n\u003e \u003cmark class=\"hltr-cyan\"\u003eTags\u003c/mark\u003e :\n\u003e \u003cmark class=\"hltr-green\"\u003eLink\u003c/mark\u003e : [[Player Autonomy]], [[Player Narrative]], [[Volition]]\n\n# Witcher\n\n## 1. Volition\n\n+ The Witcher takes inspiration from Mass Effect and Skyrim Structures.\n+ Witcher Trades Fidelity in order to Better Deliver on the Promise of Impactful Choices.\n+ Side Stories give the player narrative red meat for building their personal narrative, decoupled from the main story.\n\n## 2. References\n",
+    "lastmodified": "2022-06-05T10:56:51.852145+05:30",
+    "tags": null
+  },
+  "G/quartz-hugo/content/notes/Extras/Templates/Card-Template": {
+    "title": "",
+    "content": "\u003e \u003cmark class=\"hltr-blue\"\u003eStatus\u003c/mark\u003e : #ideas\n\u003e \u003cmark class=\"hltr-cyan\"\u003eTags\u003c/mark\u003e :\n\u003e \u003cmark class=\"hltr-green\"\u003eLink\u003c/mark\u003e :\n\n# {{title}}\n\n\n\n\n\n***\n## 1. References\n",
+    "lastmodified": "2022-06-05T15:15:37.6417281+05:30",
+    "tags": null
+  },
+  "G/quartz-hugo/content/notes/Extras/Templates/Map-of-Content": {
+    "title": "",
+    "content": "# {{title}}\n1. ",
+    "lastmodified": "2022-06-05T01:57:14.6465568+05:30",
+    "tags": null
+  },
+  "G/quartz-hugo/content/notes/Extras/Utility/Questions": {
+    "title": "Questions",
+    "content": "\n# Volition\n1. [[Player Autonomy#^58e09b|What are you doing to build volition and not just provide freedom?]]",
+    "lastmodified": "2022-06-05T19:22:12.8244729+05:30",
+    "tags": null
+  },
+  "G/quartz-hugo/content/notes/Spaces/Interests/Areas/Game-Development": {
+    "title": "Game Development",
+    "content": "\n# Game Development\n\n1. [[Player MOC|Player]]\n",
+    "lastmodified": "2022-06-05T13:50:20.061811+05:30",
+    "tags": null
+  },
+  "G/quartz-hugo/content/notes/Spaces/Interests/Map-of-Contents/Player-MOC": {
+    "title": "Player",
+    "content": "\n# Player\n\n1. [[Player Autonomy|Autonomy]]\n2. [[Player Narrative|Narrative]]\n3. [[Player Motivation|Motivation]]\n",
+    "lastmodified": "2022-06-05T19:11:25.0095138+05:30",
+    "tags": null
+  },
+  "G/quartz-hugo/content/notes/Spaces/Interests/Support/Mechanics/Nemesis-System": {
+    "title": "",
+    "content": "\u003e \u003cmark class=\"hltr-blue\"\u003eStatus\u003c/mark\u003e : #ideas\n\u003e \u003cmark class=\"hltr-cyan\"\u003eTags\u003c/mark\u003e :\n\u003e \u003cmark class=\"hltr-green\"\u003eLink\u003c/mark\u003e :\n\n# Nemesis System\n\n1.\n\n## 1. References\n+ [](https://www.youtube.com/watch?v=Lm_AzK27mZY)",
+    "lastmodified": "2022-06-05T11:07:46.3454828+05:30",
+    "tags": null
+  },
+  "G/quartz-hugo/content/private/private-note": {
+    "title": "Private Stuff",
+    "content": "\nThis page doesn't get published!",
+    "lastmodified": "2022-06-03T23:29:18+05:30",
+    "tags": null
+  },
+  "G/quartz-hugo/content/templates/post": {
+    "title": "{{title}}",
+    "content": "",
+    "lastmodified": "2022-06-03T23:29:18+05:30",
+    "tags": null
+  }
+}
